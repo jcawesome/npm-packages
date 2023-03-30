@@ -1,0 +1,1 @@
+const jcmath = require("jcawesome-math");
